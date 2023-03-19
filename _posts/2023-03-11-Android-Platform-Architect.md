@@ -13,7 +13,7 @@ last_modified_at: 2023-03-19
 ## Android 플랫폼 아키텍처
 ### Android 아키텍처
 기본적인 안드로이드 플랫폼 아키텍처는 아래와 같다.
-![안드로이드 소프트웨어 스택(출처: https://developer.android.com/guide/platform)](../content_img/Android_software_stack.png)
+![안드로이드 소프트웨어 스택(출처: https://developer.android.com/guide/platform)](/content_img/Android_software_stack.png)
 안드로이드 소프트웨어 스택(출처: https://developer.android.com/guide/platform)
 
 안드로이드 플랫폼은 리눅스 커널 기반이며 HAL(Hardware Abstaction Layer)은 자바 API프레임워크에 하드웨어 기능을 이용하는 표준 인터페이스를 제공한다.
